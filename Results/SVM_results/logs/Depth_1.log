@@ -558,7 +558,7 @@ SVM classification test score: [0.6   0.575 0.8   0.625 0.65 ] --> (0.65 +- 0.07
 
 
 
--------Circuit number: 0----L: 1----Dataset: Poisson_noise---------------------
+-------Circuit number: 0----L: 1----Dataset: Gamma_noise---------------------
 Training time: [29.54568076 31.60135722 34.67161608 29.34869266 38.54892135] seconds --> (32.7433 +- 3.4778)
 Test time: [14.06635427 15.20975399 16.84359026 15.2193265  15.89420986] seconds --> (15.4466 +- 0.9127)
 SVM classification train score: [0.56875 0.58125 0.6125  0.59375 0.60625] --> (0.5925 +- 0.016)
@@ -566,7 +566,7 @@ SVM classification test score: [0.575 0.475 0.45  0.375 0.4  ] --> (0.455 +- 0.0
 
 
 
--------Circuit number: 1----L: 1----Dataset: Poisson_noise---------------------
+-------Circuit number: 1----L: 1----Dataset: Gamma_noise---------------------
 Training time: [10.6467607   9.17921329  8.36385989  9.0180707  10.18696022] seconds --> (9.479 +- 0.8259)
 Test time: [5.02063441 4.47808599 4.57654881 5.02620244 4.66547346] seconds --> (4.7534 +- 0.2283)
 SVM classification train score: [0.49375 0.51875 0.475   0.50625 0.4875 ] --> (0.4962 +- 0.0151)
@@ -574,7 +574,7 @@ SVM classification test score: [0.35  0.5   0.575 0.65  0.625] --> (0.54 +- 0.10
 
 
 
--------Circuit number: 2----L: 1----Dataset: Poisson_noise---------------------
+-------Circuit number: 2----L: 1----Dataset: Gamma_noise---------------------
 Training time: [17.58206487 14.40899467 14.02902079 13.71598959 15.1993525 ] seconds --> (14.9871 +- 1.389)
 Test time: [7.53557754 7.31820631 8.86988544 9.20359516 8.51807475] seconds --> (8.2891 +- 0.7398)
 SVM classification train score: [0.59375 0.60625 0.5875  0.59375 0.6    ] --> (0.5963 +- 0.0064)
@@ -582,7 +582,7 @@ SVM classification test score: [0.6   0.65  0.55  0.55  0.575] --> (0.585 +- 0.0
 
 
 
--------Circuit number: 3----L: 1----Dataset: Poisson_noise---------------------
+-------Circuit number: 3----L: 1----Dataset: Gamma_noise---------------------
 Training time: [17.33229327 17.86130023 21.60521364 18.85041118 14.84832668] seconds --> (18.0995 +- 2.1941)
 Test time: [8.97574377 9.0013988  8.82000875 7.92151284 8.91905618] seconds --> (8.7275 +- 0.4078)
 SVM classification train score: [0.59375 0.6     0.58125 0.6     0.6125 ] --> (0.5975 +- 0.0102)
@@ -590,7 +590,7 @@ SVM classification test score: [0.625 0.625 0.525 0.5   0.575] --> (0.57 +- 0.05
 
 
 
--------Circuit number: 4----L: 1----Dataset: Poisson_noise---------------------
+-------Circuit number: 4----L: 1----Dataset: Gamma_noise---------------------
 Training time: [16.47471237 20.38498425 20.57914734 16.01311684 16.56304693] seconds --> (18.003 +- 2.0337)
 Test time: [10.09069967  9.23015404  8.16340613  8.80674958  9.97422075] seconds --> (9.253 +- 0.7223)
 SVM classification train score: [0.59375 0.60625 0.5875  0.59375 0.6    ] --> (0.5963 +- 0.0064)
@@ -598,7 +598,7 @@ SVM classification test score: [0.6   0.65  0.55  0.55  0.575] --> (0.585 +- 0.0
 
 
 
--------Circuit number: 5----L: 1----Dataset: Poisson_noise---------------------
+-------Circuit number: 5----L: 1----Dataset: Gamma_noise---------------------
 Training time: [19.79322314 16.90973544 17.5314126  17.1689446  20.44687605] seconds --> (18.37 +- 1.4572)
 Test time: [9.03269482 9.88983941 9.10305095 8.39027739 9.61076522] seconds --> (9.2053 +- 0.5172)
 SVM classification train score: [0.59375 0.60625 0.5875  0.59375 0.6    ] --> (0.5963 +- 0.0064)
@@ -606,7 +606,7 @@ SVM classification test score: [0.6   0.65  0.55  0.55  0.575] --> (0.585 +- 0.0
 
 
 
--------Circuit number: 6----L: 1----Dataset: Poisson_noise---------------------
+-------Circuit number: 6----L: 1----Dataset: Gamma_noise---------------------
 Training time: [32.47356653 29.82347226 27.81787014 29.91931772 27.71883059] seconds --> (29.5506 +- 1.7385)
 Test time: [15.61756897 15.21016884 12.93518472 17.07266164 16.66132593] seconds --> (15.4994 +- 1.449)
 SVM classification train score: [0.60625 0.575   0.59375 0.59375 0.61875] --> (0.5975 +- 0.0146)
@@ -614,7 +614,7 @@ SVM classification test score: [0.55  0.675 0.575 0.625 0.55 ] --> (0.595 +- 0.0
 
 
 
--------Circuit number: 7----L: 1----Dataset: Poisson_noise---------------------
+-------Circuit number: 7----L: 1----Dataset: Gamma_noise---------------------
 Training time: [25.24360085 27.32297683 21.39220309 22.83401084 24.85771823] seconds --> (24.3301 +- 2.0464)
 Test time: [14.14650941 12.29092002 12.96657372 12.53907681 11.28572917] seconds --> (12.6458 +- 0.9319)
 SVM classification train score: [0.6125  0.56875 0.6125  0.63125 0.6125 ] --> (0.6075 +- 0.0207)
@@ -622,7 +622,7 @@ SVM classification test score: [0.575 0.7   0.525 0.55  0.55 ] --> (0.58 +- 0.06
 
 
 
--------Circuit number: 8----L: 1----Dataset: Poisson_noise---------------------
+-------Circuit number: 8----L: 1----Dataset: Gamma_noise---------------------
 Training time: [24.87866211 28.54204893 24.8575139  28.84363818 22.45563674] seconds --> (25.9155 +- 2.4347)
 Test time: [13.02452826 11.37010264 13.49589324 14.09985209 13.7641077 ] seconds --> (13.1509 +- 0.9574)
 SVM classification train score: [0.63125 0.6125  0.6125  0.61875 0.5875 ] --> (0.6125 +- 0.0143)
@@ -630,7 +630,7 @@ SVM classification test score: [0.575 0.525 0.575 0.525 0.575] --> (0.555 +- 0.0
 
 
 
--------Circuit number: 9----L: 1----Dataset: Poisson_noise---------------------
+-------Circuit number: 9----L: 1----Dataset: Gamma_noise---------------------
 Training time: [29.75014281 33.51190209 26.02414107 26.89423108 30.07646537] seconds --> (29.2514 +- 2.6477)
 Test time: [15.43072486 14.2145462  12.60675478 15.73903012 16.33600044] seconds --> (14.8654 +- 1.3244)
 SVM classification train score: [0.5375  0.575   0.54375 0.575   0.55   ] --> (0.5562 +- 0.0158)
@@ -638,7 +638,7 @@ SVM classification test score: [0.525 0.5   0.65  0.525 0.475] --> (0.535 +- 0.0
 
 
 
--------Circuit number: 10----L: 1----Dataset: Poisson_noise---------------------
+-------Circuit number: 10----L: 1----Dataset: Gamma_noise---------------------
 Training time: [33.50803161 33.30409026 34.67779374 36.93764925 33.85205054] seconds --> (34.4559 +- 1.3265)
 Test time: [17.20592403 17.17383075 17.90689135 18.63668609 17.15866208] seconds --> (17.6164 +- 0.583)
 SVM classification train score: [0.60625 0.5875  0.60625 0.64375 0.625  ] --> (0.6138 +- 0.0191)
@@ -646,7 +646,7 @@ SVM classification test score: [0.575 0.575 0.55  0.375 0.475] --> (0.51 +- 0.07
 
 
 
--------Circuit number: 11----L: 1----Dataset: Poisson_noise---------------------
+-------Circuit number: 11----L: 1----Dataset: Gamma_noise---------------------
 Training time: [0.00502253 0.00253701 0.00270915 0.00331354 0.00311732] seconds --> (0.0033 +- 0.0009)
 Test time: [0.00276875 0.0010221  0.00089216 0.00096846 0.00094867] seconds --> (0.0013 +- 0.0007)
 SVM classification train score: [0.6     0.59375 0.625   0.6     0.60625] --> (0.605 +- 0.0108)
@@ -654,7 +654,7 @@ SVM classification test score: [0.625 0.65  0.575 0.55  0.55 ] --> (0.59 +- 0.04
 
 
 
--------Circuit number: 12----L: 1----Dataset: Poisson_noise---------------------
+-------Circuit number: 12----L: 1----Dataset: Gamma_noise---------------------
 Training time: [0.00616336 0.00510073 0.01911569 0.04063821 0.02965474] seconds --> (0.0201 +- 0.0137)
 Test time: [0.00081062 0.00077438 0.0012126  0.00061178 0.000772  ] seconds --> (0.0008 +- 0.0002)
 SVM classification train score: [0.575   0.59375 0.6375  0.59375 0.575  ] --> (0.595 +- 0.0228)
@@ -662,7 +662,7 @@ SVM classification test score: [0.575 0.625 0.475 0.45  0.525] --> (0.53 +- 0.06
 
 
 
--------Circuit number: 13----L: 1----Dataset: Poisson_noise---------------------
+-------Circuit number: 13----L: 1----Dataset: Gamma_noise---------------------
 Training time: [0.00821781 0.00889611 0.00721431 0.00175476 0.00709438] seconds --> (0.0066 +- 0.0025)
 Test time: [0.00334048 0.00488114 0.00387001 0.00107503 0.00273848] seconds --> (0.0032 +- 0.0013)
 SVM classification train score: [0.60625 0.63125 0.6625  0.60625 0.66875] --> (0.635 +- 0.0267)

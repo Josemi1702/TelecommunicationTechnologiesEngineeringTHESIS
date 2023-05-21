@@ -1,0 +1,728 @@
+--------------------------Dataset Moons   Circuit number: 0------------------------------
+Fit and predict time: 0 seconds
+Spectral Clustering  test score: 0.43083604548909205
+Spectral Clustering  silhouette: 0.2545241682009689
+Spectral Clustering  calinski harabasz metric: 67.4276560130581
+Spectral Clustering  davies bouldin metric: 1.65648212034385
+Spectral Clustering  adjusted rand metric: 0.5016681908549712
+Spectral Clustering  entropy: 0.9790514648094593
+Homogeneity: 0.4263233534589513
+Completness: 0.4354452945350746
+F score: 0.1387776686560399
+
+
+--------------------------Dataset Moons   Circuit number: 1------------------------------
+Fit and predict time: 0 seconds
+Spectral Clustering  test score: 0.009600256094804405
+Spectral Clustering  silhouette: -0.78
+Spectral Clustering  calinski harabasz metric: 0.8758077402736462
+Spectral Clustering  davies bouldin metric: 0.0
+Spectral Clustering  adjusted rand metric: 0.0
+Spectral Clustering  entropy: 0.0454146923337941
+Homogeneity: 0.0050181243858377885
+Completness: 0.11049561558085728
+F score: 0.34434915063412697
+
+
+--------------------------Dataset Moons   Circuit number: 2------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.4291048426539073
+Spectral Clustering  silhouette: 0.5157963691872886
+Spectral Clustering  calinski harabasz metric: 298.2555056950023
+Spectral Clustering  davies bouldin metric: 0.7843787016201028
+Spectral Clustering  adjusted rand metric: 0.5305411461913403
+Spectral Clustering  entropy: 0.9999278640456615
+Homogeneity: 0.4290893657102394
+Completness: 0.4291203207140999
+F score: 0.8649966249156229
+
+
+--------------------------Dataset Moons   Circuit number: 3------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.4582758596615809
+Spectral Clustering  silhouette: 0.5112903668679887
+Spectral Clustering  calinski harabasz metric: 283.29492319267143
+Spectral Clustering  davies bouldin metric: 0.7920501876359718
+Spectral Clustering  adjusted rand metric: 0.5453482170993624
+Spectral Clustering  entropy: 0.9895875212220556
+Homogeneity: 0.45588996582999586
+Completness: 0.4606868579618007
+F score: 0.12685668406262546
+
+
+--------------------------Dataset Moons   Circuit number: 4------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.4291048426539073
+Spectral Clustering  silhouette: 0.5157963691872884
+Spectral Clustering  calinski harabasz metric: 298.2555056950023
+Spectral Clustering  davies bouldin metric: 0.7843787016201034
+Spectral Clustering  adjusted rand metric: 0.5305411461913403
+Spectral Clustering  entropy: 0.9999278640456615
+Homogeneity: 0.4290893657102394
+Completness: 0.4291203207140999
+F score: 0.13497837445936148
+
+
+--------------------------Dataset Moons   Circuit number: 5------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.4291048426539073
+Spectral Clustering  silhouette: 0.5157963691872886
+Spectral Clustering  calinski harabasz metric: 298.2555056950021
+Spectral Clustering  davies bouldin metric: 0.7843787016201036
+Spectral Clustering  adjusted rand metric: 0.5305411461913403
+Spectral Clustering  entropy: 0.9999278640456615
+Homogeneity: 0.4290893657102394
+Completness: 0.4291203207140999
+F score: 0.13497837445936148
+
+
+--------------------------Dataset Moons   Circuit number: 6------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.010435392710891514
+Spectral Clustering  silhouette: 0.3687888220661021
+Spectral Clustering  calinski harabasz metric: 119.50717930592961
+Spectral Clustering  davies bouldin metric: 1.2079985546698733
+Spectral Clustering  adjusted rand metric: 0.009430226826449888
+Spectral Clustering  entropy: 0.9988455359952018
+Homogeneity: 0.01042936906826119
+Completness: 0.010441423315637945
+F score: 0.5598239295718288
+
+
+--------------------------Dataset Moons   Circuit number: 7------------------------------
+Fit and predict time: 0 seconds
+Spectral Clustering  test score: 0.3734242018160509
+Spectral Clustering  silhouette: 0.5153298251307461
+Spectral Clustering  calinski harabasz metric: 311.3692887916484
+Spectral Clustering  davies bouldin metric: 0.7456110881123438
+Spectral Clustering  adjusted rand metric: 0.4597121357507197
+Spectral Clustering  entropy: 0.9927744539878083
+Homogeneity: 0.3720751049399071
+Completness: 0.3747831176007236
+F score: 0.15789473684210528
+
+
+--------------------------Dataset Moons   Circuit number: 8------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.2221396006864686
+Spectral Clustering  silhouette: 0.34264687121450504
+Spectral Clustering  calinski harabasz metric: 115.89522044702164
+Spectral Clustering  davies bouldin metric: 1.2852721887777145
+Spectral Clustering  adjusted rand metric: 0.2880236605582615
+Spectral Clustering  entropy: 0.9997114417528099
+Homogeneity: 0.22210755057956588
+Completness: 0.22217166004436345
+F score: 0.76997699769977
+
+
+--------------------------Dataset Moons   Circuit number: 9------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.01222702584926333
+Spectral Clustering  silhouette: 0.4876834526872369
+Spectral Clustering  calinski harabasz metric: 267.0639541595445
+Spectral Clustering  davies bouldin metric: 0.819340044563666
+Spectral Clustering  adjusted rand metric: 0.01193534750740025
+Spectral Clustering  entropy: 0.9999278640456615
+Homogeneity: 0.012226584845174157
+Completness: 0.012227466885167054
+F score: 0.4349858746468662
+
+
+--------------------------Dataset Moons   Circuit number: 10------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.0011544640047966115
+Spectral Clustering  silhouette: 0.2898867882758729
+Spectral Clustering  calinski harabasz metric: 94.66462381622328
+Spectral Clustering  davies bouldin metric: 1.4166271900860299
+Spectral Clustering  adjusted rand metric: -0.0034424242424242425
+Spectral Clustering  entropy: 1.0
+Homogeneity: 0.0011544640047966115
+Completness: 0.0011544640047966115
+F score: 0.52
+
+
+--------------------------Dataset Moons   Circuit number: 11------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.3539334630173327
+Spectral Clustering  silhouette: 0.4839095903772458
+Spectral Clustering  calinski harabasz metric: 265.71355960351417
+Spectral Clustering  davies bouldin metric: 0.8272139056310025
+Spectral Clustering  adjusted rand metric: 0.44611694640558264
+Spectral Clustering  entropy: 0.9999278640456615
+Homogeneity: 0.3539206973532693
+Completness: 0.3539462296023259
+F score: 0.16497912447811194
+
+
+--------------------------Dataset Moons   Circuit number: 12------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.35393346301733264
+Spectral Clustering  silhouette: 0.4839095903772458
+Spectral Clustering  calinski harabasz metric: 265.71355960351417
+Spectral Clustering  davies bouldin metric: 0.8272139056310025
+Spectral Clustering  adjusted rand metric: 0.44611694640558264
+Spectral Clustering  entropy: 0.9999278640456615
+Homogeneity: 0.35392069735326925
+Completness: 0.3539462296023259
+F score: 0.8349958748968724
+
+
+--------------------------Dataset Moons   Circuit number: 13------------------------------
+Fit and predict time: 0 seconds
+Spectral Clustering  test score: 0.4425618149720095
+Spectral Clustering  silhouette: 0.48477221773056606
+Spectral Clustering  calinski harabasz metric: 264.5382322122499
+Spectral Clustering  davies bouldin metric: 0.8265151241046581
+Spectral Clustering  adjusted rand metric: 0.5453151515151515
+Spectral Clustering  entropy: 1.0
+Homogeneity: 0.4425618149720095
+Completness: 0.4425618149720095
+F score: 0.13
+
+
+--------------------------Dataset Circles   Circuit number: 0------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.002604091289721355
+Spectral Clustering  silhouette: 0.21101276215659057
+Spectral Clustering  calinski harabasz metric: 53.15433621970876
+Spectral Clustering  davies bouldin metric: 1.9176672013820684
+Spectral Clustering  adjusted rand metric: -0.001424230915305735
+Spectral Clustering  entropy: 0.9988455359952018
+Homogeneity: 0.0026025881248917604
+Completness: 0.002605596191906353
+F score: 0.4697879151660665
+
+
+--------------------------Dataset Circles   Circuit number: 1------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.0
+Spectral Clustering  silhouette: 0.3932394839781345
+Spectral Clustering  calinski harabasz metric: 42.643039859650905
+Spectral Clustering  davies bouldin metric: 0.0
+Spectral Clustering  adjusted rand metric: -0.0024259715975949838
+Spectral Clustering  entropy: 0.584238811642856
+Homogeneity: 0.0
+Completness: 0.0
+F score: 0.42555147058823534
+
+
+--------------------------Dataset Circles   Circuit number: 2------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 7.214577140847848e-05
+Spectral Clustering  silhouette: 0.3437683012832619
+Spectral Clustering  calinski harabasz metric: 107.21277379549154
+Spectral Clustering  davies bouldin metric: 1.3086346617847966
+Spectral Clustering  adjusted rand metric: -0.004949492449751288
+Spectral Clustering  entropy: 0.9999278640456615
+Homogeneity: 7.21431692564425e-05
+Completness: 7.214837374823675e-05
+F score: 0.49498737468436715
+
+
+--------------------------Dataset Circles   Circuit number: 3------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.0006515264725741429
+Spectral Clustering  silhouette: 0.31873610532688745
+Spectral Clustering  calinski harabasz metric: 94.48847020266791
+Spectral Clustering  davies bouldin metric: 1.397284168295727
+Spectral Clustering  adjusted rand metric: -0.004133281145440083
+Spectral Clustering  entropy: 0.99819587904281
+Homogeneity: 0.0006509387562924756
+Completness: 0.0006521152510834579
+F score: 0.5146966854283928
+
+
+--------------------------Dataset Circles   Circuit number: 4------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 7.214577140847848e-05
+Spectral Clustering  silhouette: 0.34376830128326175
+Spectral Clustering  calinski harabasz metric: 107.21277379549146
+Spectral Clustering  davies bouldin metric: 1.3086346617847968
+Spectral Clustering  adjusted rand metric: -0.004949492449751288
+Spectral Clustering  entropy: 0.9999278640456615
+Homogeneity: 7.21431692564425e-05
+Completness: 7.214837374823675e-05
+F score: 0.5049876246906172
+
+
+--------------------------Dataset Circles   Circuit number: 5------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 7.214577140847848e-05
+Spectral Clustering  silhouette: 0.34376830128326186
+Spectral Clustering  calinski harabasz metric: 107.21277379549146
+Spectral Clustering  davies bouldin metric: 1.3086346617847961
+Spectral Clustering  adjusted rand metric: -0.004949492449751288
+Spectral Clustering  entropy: 0.9999278640456615
+Homogeneity: 7.21431692564425e-05
+Completness: 7.214837374823675e-05
+F score: 0.5049876246906172
+
+
+--------------------------Dataset Circles   Circuit number: 6------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.0011601479683027566
+Spectral Clustering  silhouette: 0.4178936144010514
+Spectral Clustering  calinski harabasz metric: 156.15866889081147
+Spectral Clustering  davies bouldin metric: 1.0676799551296252
+Spectral Clustering  adjusted rand metric: -0.0034241801664212164
+Spectral Clustering  entropy: 0.9974015885677396
+Homogeneity: 0.0011586406974307814
+Completness: 0.0011616591658878133
+F score: 0.4795315784205785
+
+
+--------------------------Dataset Circles   Circuit number: 7------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.00357696719850871
+Spectral Clustering  silhouette: 0.45027804983548586
+Spectral Clustering  calinski harabasz metric: 219.42877358626797
+Spectral Clustering  davies bouldin metric: 0.9095960203420097
+Spectral Clustering  adjusted rand metric: -8.484501391609738e-05
+Spectral Clustering  entropy: 0.9941491714808931
+Homogeneity: 0.0035665030876602393
+Completness: 0.003587492893392993
+F score: 0.5340564643402891
+
+
+--------------------------Dataset Circles   Circuit number: 8------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.002598411432258792
+Spectral Clustering  silhouette: 0.250954211757795
+Spectral Clustering  calinski harabasz metric: 67.40167825540291
+Spectral Clustering  davies bouldin metric: 1.6797707690889623
+Spectral Clustering  adjusted rand metric: -0.0014323232323232324
+Spectral Clustering  entropy: 1.0
+Homogeneity: 0.002598411432258792
+Completness: 0.002598411432258792
+F score: 0.47
+
+
+--------------------------Dataset Circles   Circuit number: 9------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.01808246218632819
+Spectral Clustering  silhouette: 0.47315824916531196
+Spectral Clustering  calinski harabasz metric: 230.8889465671708
+Spectral Clustering  davies bouldin metric: 0.8313835141874955
+Spectral Clustering  adjusted rand metric: 0.017924713577677713
+Spectral Clustering  entropy: 0.9467554496831931
+Homogeneity: 0.01760106590246234
+Completness: 0.018590931700844252
+F score: 0.5671105905120828
+
+
+--------------------------Dataset Circles   Circuit number: 10------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 7.261963669849626e-05
+Spectral Clustering  silhouette: 0.2913447430432597
+Spectral Clustering  calinski harabasz metric: 96.78928727452568
+Spectral Clustering  davies bouldin metric: 1.4076291475140494
+Spectral Clustering  adjusted rand metric: -0.004925130640706366
+Spectral Clustering  entropy: 0.9964625048848763
+Homogeneity: 7.249119089345479e-05
+Completness: 7.274853849300612e-05
+F score: 0.5043928812795676
+
+
+--------------------------Dataset Circles   Circuit number: 11------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.00028918776335779613
+Spectral Clustering  silhouette: 0.3466778305617554
+Spectral Clustering  calinski harabasz metric: 111.78891826847526
+Spectral Clustering  davies bouldin metric: 1.1942168613012267
+Spectral Clustering  adjusted rand metric: -0.0046403665424925855
+Spectral Clustering  entropy: 0.9988455359952018
+Homogeneity: 0.0002890208349260839
+Completness: 0.0002893548847251113
+F score: 0.5098039215686273
+
+
+--------------------------Dataset Circles   Circuit number: 12------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.00028918776335779613
+Spectral Clustering  silhouette: 0.3466778305617554
+Spectral Clustering  calinski harabasz metric: 111.78891826847526
+Spectral Clustering  davies bouldin metric: 1.1942168613012267
+Spectral Clustering  adjusted rand metric: -0.0046403665424925855
+Spectral Clustering  entropy: 0.9988455359952018
+Homogeneity: 0.0002890208349260839
+Completness: 0.0002893548847251113
+F score: 0.4897959183673469
+
+
+--------------------------Dataset Circles   Circuit number: 13------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.0002885582471880403
+Spectral Clustering  silhouette: 0.3547061342529099
+Spectral Clustering  calinski harabasz metric: 120.02085939174435
+Spectral Clustering  davies bouldin metric: 1.1572426293941298
+Spectral Clustering  adjusted rand metric: -0.004648484848484849
+Spectral Clustering  entropy: 1.0
+Homogeneity: 0.0002885582471880403
+Completness: 0.0002885582471880403
+F score: 0.49
+
+
+--------------------------Dataset Anisotropic   Circuit number: 0------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.45360139994870263
+Spectral Clustering  silhouette: 0.4553946029278312
+Spectral Clustering  calinski harabasz metric: 181.36042873359955
+Spectral Clustering  davies bouldin metric: 0.9013609955754501
+Spectral Clustering  adjusted rand metric: 0.4196067239107314
+Spectral Clustering  entropy: 1.526248888767066
+Homogeneity: 0.4452047358036893
+Completness: 0.4623208784982045
+F score: 0.7548010000191208
+
+
+--------------------------Dataset Anisotropic   Circuit number: 1------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.013071029809957304
+Spectral Clustering  silhouette: -0.901018497505813
+Spectral Clustering  calinski harabasz metric: 2.6527170541320495
+Spectral Clustering  davies bouldin metric: 0.0
+Spectral Clustering  adjusted rand metric: -0.00018490291043396246
+Spectral Clustering  entropy: 0.23958627378939243
+Homogeneity: 0.007523459638734738
+Completness: 0.04976966921926599
+F score: 0.19242307692307695
+
+
+--------------------------Dataset Anisotropic   Circuit number: 2------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.5746916485769992
+Spectral Clustering  silhouette: 0.5653966774408334
+Spectral Clustering  calinski harabasz metric: 656.8441981284207
+Spectral Clustering  davies bouldin metric: 0.6533685442076554
+Spectral Clustering  adjusted rand metric: 0.5438571862022743
+Spectral Clustering  entropy: 1.574681289515961
+Homogeneity: 0.5728342235597297
+Completness: 0.5765611582453566
+F score: 0.23372093023255813
+
+
+--------------------------Dataset Anisotropic   Circuit number: 3------------------------------
+Fit and predict time: 0 seconds
+Spectral Clustering  test score: 0.5847516167868849
+Spectral Clustering  silhouette: 0.5631661774995631
+Spectral Clustering  calinski harabasz metric: 652.2032991743612
+Spectral Clustering  davies bouldin metric: 0.6329454839558207
+Spectral Clustering  adjusted rand metric: 0.5470350872019833
+Spectral Clustering  entropy: 1.5794051487163643
+Homogeneity: 0.5837331011153866
+Completness: 0.5857736929464816
+F score: 0.09714332838528782
+
+
+--------------------------Dataset Anisotropic   Circuit number: 4------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.5644159211222078
+Spectral Clustering  silhouette: 0.5583876634437942
+Spectral Clustering  calinski harabasz metric: 624.273585227497
+Spectral Clustering  davies bouldin metric: 0.6641088967000065
+Spectral Clustering  adjusted rand metric: 0.5315708564170717
+Spectral Clustering  entropy: 1.5743264489542312
+Homogeneity: 0.5625285256341448
+Completness: 0.5663160244247241
+F score: 0.23192307692307693
+
+
+--------------------------Dataset Anisotropic   Circuit number: 5------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.5746916485769992
+Spectral Clustering  silhouette: 0.5653966774408337
+Spectral Clustering  calinski harabasz metric: 656.8441981284209
+Spectral Clustering  davies bouldin metric: 0.6533685442076577
+Spectral Clustering  adjusted rand metric: 0.5438571862022743
+Spectral Clustering  entropy: 1.574681289515961
+Homogeneity: 0.5728342235597297
+Completness: 0.5765611582453566
+F score: 0.2896961206896552
+
+
+--------------------------Dataset Anisotropic   Circuit number: 6------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.5631080714400939
+Spectral Clustering  silhouette: 0.5542314951362024
+Spectral Clustering  calinski harabasz metric: 248.6328008466759
+Spectral Clustering  davies bouldin metric: 0.7125654529751732
+Spectral Clustering  adjusted rand metric: 0.43617852760487746
+Spectral Clustering  entropy: 1.2095878147431895
+Homogeneity: 0.4964311029755042
+Completness: 0.6504750938988703
+F score: 0.39029539798457835
+
+
+--------------------------Dataset Anisotropic   Circuit number: 7------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.5517807469706846
+Spectral Clustering  silhouette: 0.4848966093356607
+Spectral Clustering  calinski harabasz metric: 301.20335248604215
+Spectral Clustering  davies bouldin metric: 0.7088746822109092
+Spectral Clustering  adjusted rand metric: 0.5099490066808704
+Spectral Clustering  entropy: 1.5687700603621528
+Homogeneity: 0.5489683948364885
+Completness: 0.5546220627120123
+F score: 0.2662244897959184
+
+
+--------------------------Dataset Anisotropic   Circuit number: 8------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.3699437026286473
+Spectral Clustering  silhouette: 0.35827036586209643
+Spectral Clustering  calinski harabasz metric: 148.2859787362119
+Spectral Clustering  davies bouldin metric: 0.9670320514812344
+Spectral Clustering  adjusted rand metric: 0.2626919982564834
+Spectral Clustering  entropy: 1.4271065017778126
+Homogeneity: 0.35152503396695217
+Completness: 0.39039924233577217
+F score: 0.5769029806958869
+
+
+--------------------------Dataset Anisotropic   Circuit number: 9------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.11835139041225695
+Spectral Clustering  silhouette: 0.4305571786033619
+Spectral Clustering  calinski harabasz metric: 210.26441601197902
+Spectral Clustering  davies bouldin metric: 1.0266610130194904
+Spectral Clustering  adjusted rand metric: 0.11302224609260404
+Spectral Clustering  entropy: 1.5653996334852498
+Homogeneity: 0.11762232918095636
+Completness: 0.11908954592739972
+F score: 0.2720139855131773
+
+
+--------------------------Dataset Anisotropic   Circuit number: 10------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.01479415597898204
+Spectral Clustering  silhouette: 0.35270296573212306
+Spectral Clustering  calinski harabasz metric: 127.86055185461977
+Spectral Clustering  davies bouldin metric: 1.1519389534281366
+Spectral Clustering  adjusted rand metric: 0.008131933416863767
+Spectral Clustering  entropy: 1.5375266776945908
+Homogeneity: 0.014572934824962172
+Completness: 0.015022197057104067
+F score: 0.33711670236936064
+
+
+--------------------------Dataset Anisotropic   Circuit number: 11------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.624442537160887
+Spectral Clustering  silhouette: 0.24656370868074098
+Spectral Clustering  calinski harabasz metric: 266.7834112731454
+Spectral Clustering  davies bouldin metric: 0.5580331831348847
+Spectral Clustering  adjusted rand metric: 0.5232553331009671
+Spectral Clustering  entropy: 0.9848684131551669
+Homogeneity: 0.5062346124311172
+Completness: 0.8146718661486729
+F score: 0.20721649484536084
+
+
+--------------------------Dataset Anisotropic   Circuit number: 12------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.3752152122659869
+Spectral Clustering  silhouette: 0.39217943573205355
+Spectral Clustering  calinski harabasz metric: 342.7226381063792
+Spectral Clustering  davies bouldin metric: 0.7695671661225884
+Spectral Clustering  adjusted rand metric: 0.25613085688473924
+Spectral Clustering  entropy: 1.5244651331498649
+Homogeneity: 0.3680584202372835
+Completness: 0.38265584713794026
+F score: 0.6544478327579594
+
+
+--------------------------Dataset Anisotropic   Circuit number: 13------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.5135486124286205
+Spectral Clustering  silhouette: 0.4964674857745806
+Spectral Clustering  calinski harabasz metric: 473.3767864706538
+Spectral Clustering  davies bouldin metric: 0.7223256125688607
+Spectral Clustering  adjusted rand metric: 0.4611128279508528
+Spectral Clustering  entropy: 1.5636679587589142
+Homogeneity: 0.5101045316150509
+Completness: 0.5170395162876108
+F score: 0.4529741683302055
+
+
+--------------------------Dataset Random   Circuit number: 0------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.009256575838309033
+Spectral Clustering  silhouette: 0.1839263261649721
+Spectral Clustering  calinski harabasz metric: 39.26486728200228
+Spectral Clustering  davies bouldin metric: 1.8555593390896974
+Spectral Clustering  adjusted rand metric: 0.00030726329525382866
+Spectral Clustering  entropy: 1.5830689115989398
+Homogeneity: 0.00926050225682642
+Completness: 0.009252652747954213
+F score: 0.30031869463869465
+
+
+--------------------------Dataset Random   Circuit number: 1------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.009816251602419744
+Spectral Clustering  silhouette: -0.8753393614378637
+Spectral Clustering  calinski harabasz metric: 2.430113833035039
+Spectral Clustering  davies bouldin metric: 0.0
+Spectral Clustering  adjusted rand metric: 0.0014761069973267596
+Spectral Clustering  entropy: 0.22194073285321086
+Homogeneity: 0.005596811650856429
+Completness: 0.03988735311198622
+F score: 0.17297127678523025
+
+
+--------------------------Dataset Random   Circuit number: 2------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.009104248098040842
+Spectral Clustering  silhouette: 0.4231382732420235
+Spectral Clustering  calinski harabasz metric: 154.21396380316975
+Spectral Clustering  davies bouldin metric: 0.8829530434313391
+Spectral Clustering  adjusted rand metric: -0.0026530120993608387
+Spectral Clustering  entropy: 1.5534687653756745
+Homogeneity: 0.0090229222988199
+Completness: 0.009187053249549533
+F score: 0.3248967150125868
+
+
+--------------------------Dataset Random   Circuit number: 3------------------------------
+Fit and predict time: 0 seconds
+Spectral Clustering  test score: 0.011806236025444644
+Spectral Clustering  silhouette: 0.43503972046262496
+Spectral Clustering  calinski harabasz metric: 156.28774557097785
+Spectral Clustering  davies bouldin metric: 0.8762564062717079
+Spectral Clustering  adjusted rand metric: -0.001083970380328793
+Spectral Clustering  entropy: 1.5342383332218787
+Homogeneity: 0.011629004752366986
+Completness: 0.011988953073142896
+F score: 0.3325691591416923
+
+
+--------------------------Dataset Random   Circuit number: 4------------------------------
+Fit and predict time: 0 seconds
+Spectral Clustering  test score: 0.009104248098040842
+Spectral Clustering  silhouette: 0.4231382732420235
+Spectral Clustering  calinski harabasz metric: 154.21396380316966
+Spectral Clustering  davies bouldin metric: 0.8829530434313396
+Spectral Clustering  adjusted rand metric: -0.0026530120993608387
+Spectral Clustering  entropy: 1.5534687653756747
+Homogeneity: 0.0090229222988199
+Completness: 0.009187053249549533
+F score: 0.3644676099809395
+
+
+--------------------------Dataset Random   Circuit number: 5------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.009104248098040842
+Spectral Clustering  silhouette: 0.4231382732420234
+Spectral Clustering  calinski harabasz metric: 154.21396380316966
+Spectral Clustering  davies bouldin metric: 0.8829530434313392
+Spectral Clustering  adjusted rand metric: -0.0026530120993608387
+Spectral Clustering  entropy: 1.5534687653756747
+Homogeneity: 0.0090229222988199
+Completness: 0.009187053249549533
+F score: 0.3644676099809395
+
+
+--------------------------Dataset Random   Circuit number: 6------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.006303429348984352
+Spectral Clustering  silhouette: 0.4534794091005252
+Spectral Clustering  calinski harabasz metric: 177.39705588741717
+Spectral Clustering  davies bouldin metric: 0.6838507782071438
+Spectral Clustering  adjusted rand metric: -0.0046532357523285965
+Spectral Clustering  entropy: 1.2681712604967241
+Homogeneity: 0.005678644950975314
+Completness: 0.007082691908748924
+F score: 0.260097572732503
+
+
+--------------------------Dataset Random   Circuit number: 7------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.009518275864691601
+Spectral Clustering  silhouette: 0.34865691501351903
+Spectral Clustering  calinski harabasz metric: 132.48946057172876
+Spectral Clustering  davies bouldin metric: 1.1640633182985403
+Spectral Clustering  adjusted rand metric: -0.0010622525281154451
+Spectral Clustering  entropy: 1.5663564074302456
+Homogeneity: 0.00947202831045168
+Completness: 0.009564977245798174
+F score: 0.3305580940283905
+
+
+--------------------------Dataset Random   Circuit number: 8------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.009879315998321488
+Spectral Clustering  silhouette: 0.2569556557083668
+Spectral Clustering  calinski harabasz metric: 64.6720737926634
+Spectral Clustering  davies bouldin metric: 1.4705489915442727
+Spectral Clustering  adjusted rand metric: 0.00040665661982967736
+Spectral Clustering  entropy: 1.5314827399312738
+Homogeneity: 0.009722405419107226
+Completness: 0.01004137444082593
+F score: 0.3816251953802475
+
+
+--------------------------Dataset Random   Circuit number: 9------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.021082828519054603
+Spectral Clustering  silhouette: 0.3452800112699038
+Spectral Clustering  calinski harabasz metric: 141.44428873223904
+Spectral Clustering  davies bouldin metric: 1.0856997178312289
+Spectral Clustering  adjusted rand metric: 0.01331358994435644
+Spectral Clustering  entropy: 1.5822322736472711
+Homogeneity: 0.021086195581035333
+Completness: 0.021079462532212937
+F score: 0.31232608805796225
+
+
+--------------------------Dataset Random   Circuit number: 10------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.0017295274135833763
+Spectral Clustering  silhouette: 0.24376478777850083
+Spectral Clustering  calinski harabasz metric: 63.59609571464392
+Spectral Clustering  davies bouldin metric: 1.440346698836886
+Spectral Clustering  adjusted rand metric: -0.008405975684270268
+Spectral Clustering  entropy: 1.5640206376170118
+Homogeneity: 0.001719846942667374
+Completness: 0.0017393174779438804
+F score: 0.32195222175968374
+
+
+--------------------------Dataset Random   Circuit number: 11------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.006836284516073363
+Spectral Clustering  silhouette: 0.23226695429696734
+Spectral Clustering  calinski harabasz metric: 57.818353657728984
+Spectral Clustering  davies bouldin metric: 0.9228090272876127
+Spectral Clustering  adjusted rand metric: -0.005671231966743012
+Spectral Clustering  entropy: 1.0395264179292123
+Homogeneity: 0.005664578631326602
+Completness: 0.008619133764003643
+F score: 0.26710582872028654
+
+
+--------------------------Dataset Random   Circuit number: 12------------------------------
+Fit and predict time: 1 seconds
+Spectral Clustering  test score: 0.005897390296606261
+Spectral Clustering  silhouette: 0.2337995596809824
+Spectral Clustering  calinski harabasz metric: 76.38531791073409
+Spectral Clustering  davies bouldin metric: 1.184291807863343
+Spectral Clustering  adjusted rand metric: -0.005313504538173389
+Spectral Clustering  entropy: 1.3620684225712238
+Homogeneity: 0.005487897186729872
+Completness: 0.006372921714777381
+F score: 0.28451605750828546
+
+
+--------------------------Dataset Random   Circuit number: 13------------------------------
+Fit and predict time: 0 seconds
+Spectral Clustering  test score: 0.01094345786014401
+Spectral Clustering  silhouette: 0.4093914273382694
+Spectral Clustering  calinski harabasz metric: 170.26852148948012
+Spectral Clustering  davies bouldin metric: 0.7971160487014716
+Spectral Clustering  adjusted rand metric: -0.00211720680503203
+Spectral Clustering  entropy: 1.532659875391854
+Homogeneity: 0.010773717905207038
+Completness: 0.011118631936584652
+F score: 0.3651788645497255
+
+
